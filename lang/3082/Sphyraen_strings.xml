@@ -1,0 +1,132 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Sphyraen>Barracuda de Monte Bolca</Sphyraen>
+      <Sphyraen_stt>Barracuda de Monte Bolca</Sphyraen_stt>
+      <Sphyraen_lower>La Barracuda de Monte Bolca</Sphyraen_lower>
+      <Sphyraen_ltt>
+         <color r="255" g="248" b="178">
+            <b>Sphyraen</b>
+         </color>
+         <br/>
+         Haga clic y seleccione la Barracuda de Monte Bolca.
+      </Sphyraen_ltt>
+      <!--gift names-->
+      <Sphyraen_Gift>Sphyraen giftname</Sphyraen_Gift>
+      <Sphyraen_Gift_stt>Sphyraen Backpack</Sphyraen_Gift_stt>
+      <Sphyraen_Gift_lower>the Sphyraen Backpack</Sphyraen_Gift_lower>
+      <Sphyraen_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Sphyraen Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Sphyraen will buy this gift.
+      </Sphyraen_Gift_ltt>
+</entityname>
+<zoopedia_sphyraen>
+ <entry>Barracuda de Monte Bolca</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Sphyraen/Sphyraen_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Arrecife<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Monte Bolca<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Peces de aletas radiadas <i>(Actinopterygii)</i><br/>Orden: Scombroidei <i>(Perciformes)</i><br/>Familia: Barracudas <i>(Sphyraenidae)</i><br/>Genero: <i>Sphyraena</i><br/>Especie: <i>S. Bolcensis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos divertidos de la Barracuda de Monte Bolca</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Esta barracuda es mas pequeña que las actuales. De las especies actuales la mas pequeña es Sphyraena iburiensis, que solo mide 23 cm, mientras que Sphyraena bolcensis mide 20 cm.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vivia en Monte Bolca.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Vivio en el Eoceno.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Su forma es hidrodinamica, para nadar mas rapido.</color>     
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para adoptar la Barracuda de Monte Bolca necesitas 3 estrellas de fama en el zoo. 
+   </color>
+   <p/>La Barracua de Monte Bolca es un pez del Eoceno de de Monte Bolca, un yacimiento de peces italiano. Era una barracuda pequeña, podria decirse que era una pequeña maquina de matar. Solo media 20 centimetros, diez veces mas pequeña que las grandes barracudas de hoy en dia. La familia Sphyraenidae presenta un conjunto de peces alargados y con el hocico puntiagudo, formas hidrodinamicas que permiten cojer mas velocidad al pez y poder nadar mas rapido. La gran barracuda actual llega a alcanzar una velocidad de 90 km/h. La barracuda de monte bolca se debia alimentar de peces pequeños, ya que no podria ser capaz de ingerir grandes presas, solo las que le quepan en la boca.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Informacion de: <color r="255" g="231" b="135">wikipedia</color> Creado por: <color r="0" g="0" b="0">Imago</color>
+  </cell>
+ </text>
+</zoopedia_sphyraen>
+</ZT2Strings>
